@@ -1,200 +1,149 @@
 {
   "keymap": [
     {
-      "keyCode": 20,
-      "label": "Q"
-    },
-    {
-      "keyCode": 26,
-      "label": "W"
-    },
-    {
-      "keyCode": 8,
-      "label": "E"
-    },
-    {
-      "keyCode": 21,
-      "label": "R"
-    },
-    {
-      "keyCode": 23,
-      "label": "T"
-    },
-    {
-      "keyCode": 0,
-      "label": "Blocked",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "Blocked",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 28,
-      "label": "Y"
-    },
-    {
-      "keyCode": 24,
-      "label": "U"
-    },
-    {
-      "keyCode": 12,
-      "label": "I"
-    },
-    {
-      "keyCode": 18,
-      "label": "O"
-    },
-    {
-      "keyCode": 19,
-      "label": "P"
-    },
-    {
-      "keyCode": 4,
-      "label": "A"
-    },
-    {
-      "keyCode": 22,
-      "label": "S"
-    },
-    {
-      "keyCode": 7,
-      "label": "D"
-    },
-    {
-      "keyCode": 9,
-      "label": "F"
-    },
-    {
-      "keyCode": 10,
-      "label": "G"
-    },
-    {
-      "keyCode": 0,
-      "label": "Blocked",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 0,
-      "label": "Blocked",
-      "verbose": "Disabled"
-    },
-    {
-      "keyCode": 11,
-      "label": "H"
-    },
-    {
-      "keyCode": 13,
-      "label": "J"
-    },
-    {
-      "keyCode": 14,
-      "label": "K"
-    },
-    {
-      "keyCode": 15,
-      "label": "L"
-    },
-    {
-      "keyCode": 51,
-      "label": ";"
-    },
-    {
-      "keyCode": 49198,
-      "label": "Z",
-      "extraLabel": "CTRL/"
-    },
-    {
-      "keyCode": 49452,
-      "label": "X",
-      "extraLabel": "SHIFT/"
-    },
-    {
-      "keyCode": 6,
-      "label": "C"
-    },
-    {
-      "keyCode": 49706,
-      "label": "V",
-      "extraLabel": "ALT/"
-    },
-    {
-      "keyCode": 5,
-      "label": "B"
-    },
-    {
-      "keyCode": 41,
-      "label": "Esc"
-    },
-    {
-      "keyCode": 49,
-      "label": "\\"
-    },
-    {
-      "keyCode": 17,
-      "label": "N"
-    },
-    {
-      "keyCode": 49697,
-      "label": "M",
-      "extraLabel": "ALT/"
-    },
-    {
-      "keyCode": 49991,
-      "label": ",",
-      "extraLabel": "GUI/"
-    },
-    {
-      "keyCode": 49480,
-      "label": ".",
-      "extraLabel": "SHIFT/"
-    },
-    {
-      "keyCode": 49225,
-      "label": "/",
-      "extraLabel": "CTRL/"
-    },
-    {
-      "keyCode": 41,
-      "label": "Esc"
-    },
-    {
-      "keyCode": 227,
-      "label": "LWin",
-      "verbose": "Left Win"
-    },
-    {
       "keyCode": 43,
       "label": "Tab"
     },
     {
-      "keyCode": 17452,
-      "label": "2",
+      "keyCode": 52,
+      "label": "'"
+    },
+    {
+      "keyCode": 2086,
+      "label": "("
+    },
+    {
+      "keyCode": 2087,
+      "label": ")"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 23785,
+      "label": "Vol+",
+      "extraLabel": "Media",
+      "verbose": "Volume up"
+    },
+    {
+      "keyCode": 23786,
+      "label": "Vol-",
+      "extraLabel": "Media",
+      "verbose": "Volume down"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 45,
+      "label": "-"
+    },
+    {
+      "keyCode": 46,
+      "label": "="
+    },
+    {
+      "keyCode": 2095,
+      "label": "{"
+    },
+    {
+      "keyCode": 2096,
+      "label": "}"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 80,
+      "label": "←"
+    },
+    {
+      "keyCode": 81,
+      "label": "↓"
+    },
+    {
+      "keyCode": 82,
+      "label": "↑"
+    },
+    {
+      "keyCode": 79,
+      "label": "→"
+    },
+    {
+      "keyCode": 17454,
+      "label": "4",
       "extraLabel": "ShiftTo"
     },
     {
-      "keyCode": 40,
-      "label": "Enter"
+      "keyCode": 49222,
+      "label": "`",
+      "extraLabel": "CTRL/"
     },
     {
-      "keyCode": 225,
-      "label": "LShift",
-      "verbose": "Left Shift"
+      "keyCode": 49474,
+      "label": "\\",
+      "extraLabel": "SHIFT/"
     },
     {
-      "keyCode": 17451,
-      "label": "1",
-      "extraLabel": "ShiftTo"
+      "keyCode": 49984,
+      "label": "[",
+      "extraLabel": "GUI/"
     },
     {
-      "keyCode": 44,
-      "label": "Space"
+      "keyCode": 49729,
+      "label": "]",
+      "extraLabel": "ALT/"
     },
     {
-      "keyCode": 17453,
-      "label": "3",
-      "extraLabel": "ShiftTo"
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 42,
@@ -202,14 +151,83 @@
       "verbose": "Backspace"
     },
     {
-      "keyCode": 230,
-      "label": "RAlt",
-      "verbose": "AltGr (Right Alt)"
+      "keyCode": 49723,
+      "label": "Bksp",
+      "extraLabel": "ALT/"
+    },
+    {
+      "keyCode": 49979,
+      "label": "Bksp",
+      "extraLabel": "GUI/"
+    },
+    {
+      "keyCode": 229,
+      "label": "RShift",
+      "verbose": "Right Shift"
     },
     {
       "keyCode": 228,
       "label": "RCtrl",
       "verbose": "Right Control"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 17454,
+      "label": "4",
+      "extraLabel": "ShiftTo"
+    },
+    {
+      "keyCode": 225,
+      "label": "LShift",
+      "verbose": "Left Shift"
+    },
+    {
+      "keyCode": 40,
+      "label": "Enter"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
     }
   ],
   "palette": []
