@@ -1,0 +1,246 @@
+{
+  "keymap": [
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 20546,
+      "label": "Right",
+      "extraLabel": "M. Btn"
+    },
+    {
+      "keyCode": 20481,
+      "label": "Up",
+      "extraLabel": "Mouse"
+    },
+    {
+      "keyCode": 20545,
+      "label": "Left",
+      "extraLabel": "M. Btn"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 23785,
+      "label": "Vol+",
+      "extraLabel": "Media",
+      "verbose": "Volume up"
+    },
+    {
+      "keyCode": 95,
+      "label": "7",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 96,
+      "label": "8",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 97,
+      "label": "9",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 86,
+      "label": "-",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 20484,
+      "label": "Left",
+      "extraLabel": "Mouse"
+    },
+    {
+      "keyCode": 20482,
+      "label": "Down",
+      "extraLabel": "Mouse"
+    },
+    {
+      "keyCode": 20488,
+      "label": "Right",
+      "extraLabel": "Mouse"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "Blocked",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 23786,
+      "label": "Vol-",
+      "extraLabel": "Media",
+      "verbose": "Volume down"
+    },
+    {
+      "keyCode": 92,
+      "label": "4",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 93,
+      "label": "5",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 94,
+      "label": "6",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 87,
+      "label": "+",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 224,
+      "label": "LCtrl",
+      "verbose": "Left Control"
+    },
+    {
+      "keyCode": 225,
+      "label": "LShift",
+      "verbose": "Left Shift"
+    },
+    {
+      "keyCode": 227,
+      "label": "LWin",
+      "verbose": "Left Win"
+    },
+    {
+      "keyCode": 226,
+      "label": "LAlt",
+      "verbose": "Left Alt"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 70,
+      "label": "PrnScr",
+      "verbose": "Print Screen"
+    },
+    {
+      "keyCode": 49770,
+      "label": "1",
+      "extraLabel": "ALT/"
+    },
+    {
+      "keyCode": 50027,
+      "label": "2",
+      "extraLabel": "GUI/"
+    },
+    {
+      "keyCode": 49516,
+      "label": "3",
+      "extraLabel": "SHIFT/"
+    },
+    {
+      "keyCode": 49256,
+      "label": "+",
+      "extraLabel": "CTRL/"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
+    },
+    {
+      "keyCode": 98,
+      "label": "0",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 98,
+      "label": "0",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 99,
+      "label": ".",
+      "extraLabel": "Numpad"
+    },
+    {
+      "keyCode": 40,
+      "label": "Enter"
+    }
+  ],
+  "palette": []
+}
