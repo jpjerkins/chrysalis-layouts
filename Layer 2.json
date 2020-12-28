@@ -1,9 +1,10 @@
 {
   "keymap": [
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 20517,
+      "label": "NW",
+      "extraLabel": "M. Warp",
+      "verbose": "North-West"
     },
     {
       "keyCode": 20546,
@@ -21,9 +22,10 @@
       "extraLabel": "M. Btn"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 20521,
+      "label": "NE",
+      "extraLabel": "M. Warp",
+      "verbose": "North-East"
     },
     {
       "keyCode": 0,
@@ -62,9 +64,10 @@
       "extraLabel": "Numpad"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 20518,
+      "label": "SW",
+      "extraLabel": "M. Warp",
+      "verbose": "South-West"
     },
     {
       "keyCode": 20484,
@@ -82,9 +85,10 @@
       "extraLabel": "Mouse"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 20522,
+      "label": "SE",
+      "extraLabel": "M. Warp",
+      "verbose": "South-East"
     },
     {
       "keyCode": 0,
