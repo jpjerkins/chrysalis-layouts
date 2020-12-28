@@ -147,9 +147,9 @@
       "verbose": "Left Alt"
     },
     {
-      "keyCode": 65535,
-      "label": "",
-      "verbose": "Transparent"
+      "keyCode": 20576,
+      "label": "End",
+      "extraLabel": "M. Warp"
     },
     {
       "keyCode": 65535,
