@@ -7,14 +7,14 @@
       "verbose": "North-West"
     },
     {
+      "keyCode": 20576,
+      "label": "End",
+      "extraLabel": "M. Warp"
+    },
+    {
       "keyCode": 20546,
       "label": "Right",
       "extraLabel": "M. Btn"
-    },
-    {
-      "keyCode": 20481,
-      "label": "Up",
-      "extraLabel": "Mouse"
     },
     {
       "keyCode": 20545,
@@ -75,6 +75,11 @@
       "extraLabel": "Mouse"
     },
     {
+      "keyCode": 20481,
+      "label": "Up",
+      "extraLabel": "Mouse"
+    },
+    {
       "keyCode": 20482,
       "label": "Down",
       "extraLabel": "Mouse"
@@ -83,12 +88,6 @@
       "keyCode": 20488,
       "label": "Right",
       "extraLabel": "Mouse"
-    },
-    {
-      "keyCode": 20522,
-      "label": "SE",
-      "extraLabel": "M. Warp",
-      "verbose": "South-East"
     },
     {
       "keyCode": 0,
@@ -147,9 +146,10 @@
       "verbose": "Left Alt"
     },
     {
-      "keyCode": 20576,
-      "label": "End",
-      "extraLabel": "M. Warp"
+      "keyCode": 20522,
+      "label": "SE",
+      "extraLabel": "M. Warp",
+      "verbose": "South-East"
     },
     {
       "keyCode": 65535,
