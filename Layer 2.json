@@ -38,10 +38,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 23785,
-      "label": "Vol+",
-      "extraLabel": "Media",
-      "verbose": "Volume up"
+      "keyCode": 83,
+      "label": "NumLK",
+      "verbose": "Num Lock"
     },
     {
       "keyCode": 95,
@@ -100,10 +99,9 @@
       "verbose": "Disabled"
     },
     {
-      "keyCode": 23786,
-      "label": "Vol-",
-      "extraLabel": "Media",
-      "verbose": "Volume down"
+      "keyCode": 65535,
+      "label": "",
+      "verbose": "Transparent"
     },
     {
       "keyCode": 92,
