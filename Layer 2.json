@@ -220,8 +220,8 @@
       "verbose": "Transparent"
     },
     {
-      "keyCode": 99,
-      "label": ".",
+      "keyCode": 98,
+      "label": "0",
       "extraLabel": "Numpad"
     },
     {
