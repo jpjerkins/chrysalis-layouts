@@ -111,8 +111,9 @@
       "extraLabel": "SHIFT/"
     },
     {
-      "keyCode": 6,
-      "label": "C"
+      "keyCode": 49943,
+      "label": "C",
+      "extraLabel": "GUI/"
     },
     {
       "keyCode": 49706,
