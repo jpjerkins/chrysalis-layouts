@@ -157,10 +157,20 @@ void setup() {
     kaleidoscope::plugin::Qukey(Qukeys::layer_wildcard, KeyAddr(2, 4), Key_LeftAlt)      // F
 */
 
+    kaleidoscope::plugin::Qukey(0, KeyAddr(2, 0), Key_LeftControl),  // Z
+    kaleidoscope::plugin::Qukey(0, KeyAddr(2, 1), Key_LeftShift),    // X
+    kaleidoscope::plugin::Qukey(0, KeyAddr(2, 2), Key_LeftGui),      // C
+    kaleidoscope::plugin::Qukey(0, KeyAddr(2, 3), Key_LeftAlt),      // V
+
+    kaleidoscope::plugin::Qukey(0, KeyAddr(2, 8), Key_RightAlt),      // M
+    kaleidoscope::plugin::Qukey(0, KeyAddr(2, 9), Key_RightGui),      // ,
+    kaleidoscope::plugin::Qukey(0, KeyAddr(2, 10), Key_RightShift),   // .
+    kaleidoscope::plugin::Qukey(0, KeyAddr(2, 11), Key_RightControl), // /
+
     // kaleidoscope::plugin::Qukey(2, KeyAddr(2, 0), Key_LeftControl), // Z - not dual-use; set in Chrysalis
-    kaleidoscope::plugin::Qukey(2, KeyAddr(2, 1), Key_LeftShift),   // X
-    kaleidoscope::plugin::Qukey(2, KeyAddr(2, 2), Key_LeftGui),     // C
-    kaleidoscope::plugin::Qukey(2, KeyAddr(2, 3), Key_LeftAlt)      // V
+    kaleidoscope::plugin::Qukey(2, KeyAddr(2, 1), Key_LeftShift),    // X
+    kaleidoscope::plugin::Qukey(2, KeyAddr(2, 2), Key_LeftGui),      // C
+    kaleidoscope::plugin::Qukey(2, KeyAddr(2, 3), Key_LeftAlt)       // V
   )
   Qukeys.setHoldTimeout(400);
   Qukeys.setOverlapThreshold(100);
