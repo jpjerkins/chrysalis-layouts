@@ -174,7 +174,7 @@ void setup() {
   )
   Qukeys.setHoldTimeout(400);
   Qukeys.setOverlapThreshold(100);
-//  Qukeys.setMinimumHoldTime(75);
+  Qukeys.setMinimumHoldTime(150);
   Qukeys.setMinimumPriorInterval(150);
 
   Kaleidoscope.setup();
