@@ -30,6 +30,7 @@
 #include "Kaleidoscope-OneShot.h"
 #include "Kaleidoscope-Qukeys.h"
 #include "Kaleidoscope-SpaceCadet.h"
+#include "Kaleidoscope-Steno.h"
 
 
 
@@ -123,7 +124,8 @@ KALEIDOSCOPE_INIT_PLUGINS(
   SpaceCadet,
   OneShot,
   Macros,
-  MouseKeys
+  MouseKeys,
+  GeminiPR
 );
 
 const macro_t *macroAction(uint8_t macroIndex, uint8_t keyState) {
@@ -181,6 +183,7 @@ void setup() {
   MouseKeys.accelSpeed = 1; // Default 1
   MouseKeys.accelDelay = 150; // In milliseconds; default 50
 
+  Kaleidoscope.serialPort().begin(9600);
   Kaleidoscope.setup();
   SpaceCadet.disable();
   EEPROMKeymap.setup(10);
