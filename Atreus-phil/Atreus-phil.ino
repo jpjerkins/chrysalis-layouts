@@ -178,10 +178,11 @@ void setup() {
   Qukeys.setOverlapThreshold(100); // Default 70
   Qukeys.setMinimumHoldTime(50); // Default 50
   Qukeys.setMinimumPriorInterval(75); // Default 75
-  MouseKeys.speed = 2; // Default 1
+  MouseKeys.speed = 1; // Default 1
   MouseKeys.speedDelay = 0; // Default 0
   MouseKeys.accelSpeed = 1; // Default 1
-  MouseKeys.accelDelay = 150; // In milliseconds; default 50
+  MouseKeys.accelDelay = 15; // In milliseconds; default 50
+  MouseKeys.setSpeedLimit(63); // Default 127; min 16
 
   Kaleidoscope.serialPort().begin(9600);
   Kaleidoscope.setup();
