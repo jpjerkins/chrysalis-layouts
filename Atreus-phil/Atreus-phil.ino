@@ -182,7 +182,7 @@ void setup() {
   MouseKeys.speedDelay = 0; // Default 0
   MouseKeys.accelSpeed = 1; // Default 1
   MouseKeys.accelDelay = 15; // In milliseconds; default 50
-  MouseKeys.setSpeedLimit(63); // Default 127; min 16
+  MouseKeys.setSpeedLimit(45); // Default 127; min 16
 
   Kaleidoscope.serialPort().begin(9600);
   Kaleidoscope.setup();
